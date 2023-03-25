@@ -14,7 +14,7 @@
     {"id":"04","name":"one plus 11 pro", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUkGxLzZylmR4tj8cRzg6OSUhni2V-oO7UQ&usqp=CAU","price":"110000tk","camera":"100mp",
     
     "speciality":"for gamer ","benefit":"no lag no hang"},
-    
+
     {"id":"05", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
     
     "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
@@ -30,6 +30,7 @@
     {"id":"08","name":"one plus 11 pro", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUkGxLzZylmR4tj8cRzg6OSUhni2V-oO7UQ&usqp=CAU","price":"110000tk","camera":"100mp",
     
     "speciality":"for gamer ","benefit":"no lag no hang"},
+    
     {"id":"09", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
     
     "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
