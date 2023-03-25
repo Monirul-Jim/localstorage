@@ -1,0 +1,69 @@
+[
+    {"id":"01", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
+    
+    "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
+
+    {"id":"02","name":"iphone 13 pro max","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCFAP0w_2hdyzdHW2ia231vR88pQm_KCA9Q&usqp=CAU", "price":"143000tk","camera":"primary:48mp",
+    
+    "speciality":"For show off","benefit":"Bright picture" , "year":"2023"},
+
+    {"id":"03","name":"google pixel 7xl", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm_DFgnJZPp_1H57t-GxK5xK_jAcyd_K-1w&usqp=CAU", "price":"113000tk","camera":"40mp",
+    
+    "speciality":"product form google","benefit":"make for selfie"},
+
+    {"id":"04","name":"one plus 11 pro", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUkGxLzZylmR4tj8cRzg6OSUhni2V-oO7UQ&usqp=CAU","price":"110000tk","camera":"100mp",
+    
+    "speciality":"for gamer ","benefit":"no lag no hang"},
+    
+    {"id":"05", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
+    
+    "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
+
+    {"id":"06","name":"iphone 13 pro max","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCFAP0w_2hdyzdHW2ia231vR88pQm_KCA9Q&usqp=CAU", "price":"143000tk","camera":"primary:48mp",
+    
+    "speciality":"For show off","benefit":"Bright picture" , "year":"2023"},
+
+    {"id":"07","name":"google pixel 7xl", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm_DFgnJZPp_1H57t-GxK5xK_jAcyd_K-1w&usqp=CAU", "price":"113000tk","camera":"40mp",
+    
+    "speciality":"product form google","benefit":"make for selfie"},
+
+    {"id":"08","name":"one plus 11 pro", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUkGxLzZylmR4tj8cRzg6OSUhni2V-oO7UQ&usqp=CAU","price":"110000tk","camera":"100mp",
+    
+    "speciality":"for gamer ","benefit":"no lag no hang"},
+    {"id":"09", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
+    
+    "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
+
+    {"id":"10","name":"iphone 13 pro max","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCFAP0w_2hdyzdHW2ia231vR88pQm_KCA9Q&usqp=CAU", "price":"143000tk","camera":"primary:48mp",
+    
+    "speciality":"For show off","benefit":"Bright picture" , "year":"2023"},
+
+    {"id":"11","name":"google pixel 7xl", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm_DFgnJZPp_1H57t-GxK5xK_jAcyd_K-1w&usqp=CAU", "price":"113000tk","camera":"40mp",
+    
+    "speciality":"product form google","benefit":"make for selfie"},
+
+    {"id":"12","name":"one plus 11 pro", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUkGxLzZylmR4tj8cRzg6OSUhni2V-oO7UQ&usqp=CAU","price":"110000tk","camera":"100mp",
+    
+    "speciality":"for gamer ","benefit":"no lag no hang"},
+    {"id":"13", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
+    
+    "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
+
+    {"id":"14","name":"iphone 13 pro max","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCFAP0w_2hdyzdHW2ia231vR88pQm_KCA9Q&usqp=CAU", "price":"143000tk","camera":"primary:48mp",
+    
+    "speciality":"For show off","benefit":"Bright picture" , "year":"2023"},
+
+    {"id":"15","name":"google pixel 7xl", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm_DFgnJZPp_1H57t-GxK5xK_jAcyd_K-1w&usqp=CAU", "price":"113000tk","camera":"40mp",
+    
+    "speciality":"product form google","benefit":"make for selfie"},
+    {"id":"16", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYUBSMDJHql4ormT2XkebhgtzDfwxVXuLTw&usqp=CAU","name":"samsung galaxy s23 ultra","price":"133000tk",
+    
+    "camera":"primary:200mp","speciality":"100x zoom","benefit":"S-pen", "year":"2023"},
+    {"id":"17","name":"iphone 13 pro max","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCFAP0w_2hdyzdHW2ia231vR88pQm_KCA9Q&usqp=CAU", "price":"143000tk","camera":"primary:48mp",
+    
+    "speciality":"For show off","benefit":"Bright picture" , "year":"2023"},
+
+    {"id":"18","name":"one plus 11 pro", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUkGxLzZylmR4tj8cRzg6OSUhni2V-oO7UQ&usqp=CAU","price":"110000tk","camera":"100mp",
+    
+    "speciality":"for gamer ","benefit":"no lag no hang"}
+]
