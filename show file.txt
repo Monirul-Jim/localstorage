@@ -1,4 +1,0 @@
-App.js
-shopping.js
-buy.js
-data.json

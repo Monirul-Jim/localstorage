@@ -14,3 +14,7 @@ function App() {
 }
 
 export default App;
+// App.js
+// shopping.js
+// buy.js
+// data.json
