@@ -1,12 +1,9 @@
 const addDb=id=>{
     console.log(id);
-    let shoppingCart;
+    let shoppingCart={};
     const storedCart=localStorage.getItem("shoppingCart")
     if(storedCart){
         shoppingCart=JSON.parse(storedCart)
-    }
-    else{
-        shoppingCart={};
     }
     const quantity=shoppingCart[id];
     if(quantity){
