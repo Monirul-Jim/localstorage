@@ -1,10 +1,14 @@
 import React from 'react';
-import { addDb } from '../fakedb/Fakedb';
+import { addDb, removeCart } from '../fakedb/Fakedb';
 import './buy.css'
 const Buy = (props) => {
-    const {name,img,camera,speciality,benefit,year,price}=props.use;
-    const addToCart=(id)=>{
+    const {name,img,camera,speciality,benefit,year,price,id}=props.use;
+    const addToCart=()=>{
      addDb(id)
+    }
+    const removeItem=()=>{
+        console.log("got it");
+        removeCart(id)
     }
     return (
         <div className='product'>
@@ -15,10 +19,8 @@ const Buy = (props) => {
             <h3>Speciality:{speciality}</h3>
             <h3>Benefit:{benefit}</h3>
             <h3>Published Year:{year}</h3>
-           <div style={{gap:'20px'}}>
-           <button onClick={addToCart}>Purchase</button>
-            <button>Remove</button>
-           </div>
+           <button onClick={()=>addToCart()}>Purchase</button>
+            <button onClick={()=>removeItem()}>Remove</button>
         </div>
     );
 };
