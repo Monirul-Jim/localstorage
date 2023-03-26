@@ -14,7 +14,7 @@ const Shopping = (props) => {
             <h1>Welcome to my mobile shop</h1>
             <div className='phone'>
             {
-             uses.map(use=><Buy  use={use}></Buy>)
+             uses.map(use=><Buy key={use.id} use={use}></Buy>)
             }
             </div>
         </div>
